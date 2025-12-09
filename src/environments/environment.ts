@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  'https://ec2-stage.itamarabir.com/api'
+ 'http://51.21.245.96:8080/api'
 };
 
 /*
